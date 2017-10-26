@@ -3064,8 +3064,8 @@ var _createClass = function () { function defineProperties(target, props) { for 
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
-var baseUrl = 'http://work.nexio.ro/wordpress/wp-json/wp/v2/';
-var authUrl = 'http://work.nexio.ro/wordpress/wp-json/jwt-auth/v1';
+var baseUrl = 'https://work.nexio.ro/wordpress/wp-json/wp/v2/';
+var authUrl = 'https://work.nexio.ro/wordpress/wp-json/jwt-auth/v1';
 
 var Api = function () {
     function Api() {
